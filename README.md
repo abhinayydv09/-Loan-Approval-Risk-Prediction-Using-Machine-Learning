@@ -48,16 +48,17 @@ To develop and evaluate a machine learning model that accurately classifies loan
 ---
 
 ## 🧠 Technologies Used
-```
-Category      	       Tools / Libraries
-Programming	          Python
-Data Handling	       Pandas, NumPy
-Visualization	       Matplotlib, Seaborn
-Machine Learning	    Scikit-learn, XGBoost
-Preprocessing	       StandardScaler, One-Hot Encoding
-Evaluation	          Accuracy, Precision, Recall, F1, ROC-AUC
-Environment	          Jupyter Notebook
-```
+
+| Category | Tools / Libraries |
+|-----------|-------------------|
+| Programming | Python |
+| Data Handling | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn |
+| Machine Learning | Scikit-learn, XGBoost |
+| Preprocessing | StandardScaler, One-Hot Encoding |
+| Evaluation | Accuracy, Precision, Recall, F1, ROC-AUC |
+| Environment | Jupyter Notebook |
+
 ---
 
 ## 🚀 Results
