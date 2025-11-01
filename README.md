@@ -5,7 +5,6 @@
 This project aims to predict the risk of loan approval using machine learning techniques.
 It analyzes applicant demographic, financial, and credit-related features to help financial institutions make data-driven loan decisions while minimizing default risk.
 
----
 
 ## 🎯 Objective
 To develop and evaluate a machine learning model that accurately classifies loan applications as “Approved” or “Not Approved” based on applicant profiles and loan attributes.
