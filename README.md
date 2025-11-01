@@ -78,7 +78,7 @@ To develop and evaluate a machine learning model that accurately classifies loan
 Loan_Approval_Risk_Prediction/
 │
 ├── loan_approval_risk_prediction.ipynb  
-├── loan_approval_dataset.json                                  
+├── loan_approval_dataset.zip                                  
 └── README.md                     
 ```
 
